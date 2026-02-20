@@ -816,7 +816,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xA7a82CbE885b728A807369F9D078646CA758189C",
+                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x5d289118bfdfa2ac5b8c2897c1118862e516edc4",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
